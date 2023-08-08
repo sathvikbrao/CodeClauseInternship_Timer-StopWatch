@@ -1,1 +1,1 @@
-# CodeClauseInternship_Timer-StopWatch
+# Timer-StopWatch
